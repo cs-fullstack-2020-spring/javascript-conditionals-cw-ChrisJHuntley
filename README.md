@@ -1,6 +1,6 @@
 # Javascript Conditionals Classwork
 #### Check out my comments (!!) in your JS file
-#### Score : 2/5
+#### Score : 3/5
 ### Problem 1 : CORRECT
 Create two variables
 ```
